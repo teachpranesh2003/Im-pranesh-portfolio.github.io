@@ -185,7 +185,7 @@ const sendEmail = (e)=>{
             //timeout
             setTimeout(()=>{
                 contactMessage.textContent=''
-            },2000)
+            },2500)
             //clear input
             contactForm.reset()
         },()=>{
