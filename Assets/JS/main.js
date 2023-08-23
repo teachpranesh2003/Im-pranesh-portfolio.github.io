@@ -1,5 +1,5 @@
 const typed = new Typed('.auto-type',{
-    strings:['Front-End Developer'],
+    strings:['Internship Trainee'],
     typeSpeed:100,
 });
 
